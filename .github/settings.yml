@@ -1,6 +1,6 @@
 ---
 repository:
-  name: sysfs
+  name: ansible-sysfs
   description: Ansible role to configure sysfs settings
   topics: ansible, role, ansible-role, hacktoberfest
 
